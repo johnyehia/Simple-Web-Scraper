@@ -5,7 +5,7 @@ This is a simple web scraper built using Python and the BeautifulSoup library. I
 To use this web scraper, you'll need to have Python and the BeautifulSoup library installed on your computer. You can install BeautifulSoup using pip by running the following command in your terminal:
 
 pip install beautifulsoup4
-python web_scraper.py
+python web-scraper.py
 
 When prompted, enter the website URL (e.g. https://example.com) and the HTML tag to scrape (e.g. a). The script will then scrape the website and print out all instances of the specified HTML tag.
 
